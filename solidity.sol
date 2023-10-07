@@ -4,6 +4,5 @@ pragma solidity ^0.8.20;
 
 contract HelloWorld {
     string public greet = "Hello World!";
-    string public greet = "Hello World!";
-    uint256 greet = 123;
+    string public greet = "Hello World!"
 }
