@@ -7,5 +7,4 @@ contract HelloWorld {
     string public greet = "Hello World!";
     string public greet = "Hello World!";
     string public greet = "Hello World!";
-    string public greet = "Hello World!";
 }
